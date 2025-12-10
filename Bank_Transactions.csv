@@ -1,0 +1,284 @@
+Bank_Txn_ID,Date,Vendor,Description,Amount,Check_ACH,Cleared_Flag,Match_Key,Duplicate_Payment,Duplicate_Payment_Flag
+BTXN-00001,2025-05-08,Tri-County Services,Payment for INV2025-0001,-5343.74,ACH,True,Tri-County Services|-5343.74,1,OK
+BTXN-00002,2025-05-11,Atlantic Fiber Co,Payment for INV2025-0002,-3126.35,ACH,True,Atlantic Fiber Co|-3126.35,1,OK
+BTXN-00003,2025-06-22,Sunline Electrical,Payment for INV2025-0003,-25961.19,Check,True,Sunline Electrical|-25961.19,1,OK
+BTXN-00004,2025-09-02,Tidal Contractors,Payment for INV2025-0004,-16566.00,Check,True,Tidal Contractors|-16566,1,OK
+BTXN-00005,2025-11-26,Tampa Grid Services,Payment for INV2025-0006,-21118.39,Check,True,Tampa Grid Services|-21118.39,1,OK
+BTXN-00006,2025-09-26,Atlantic Fiber Co,Payment for INV2025-0007,-1736.32,ACH,True,Atlantic Fiber Co|-1736.32,1,OK
+BTXN-00007,2025-11-02,BrightPower Partners,Payment for INV2025-0009,-944.64,ACH,True,BrightPower Partners|-944.64,1,OK
+BTXN-00008,2025-09-29,Gulf Coast Telecom,Payment for INV2025-0010,-24372.83,ACH,True,Gulf Coast Telecom|-24372.83,1,OK
+BTXN-00009,2025-03-10,BrightPower Partners,Payment for INV2025-0011,-5958.22,ACH,True,BrightPower Partners|-5958.22,1,OK
+BTXN-00010,2025-11-20,Atlantic Fiber Co,Payment for INV2025-0014,-20125.99,ACH,True,Atlantic Fiber Co|-20125.99,1,OK
+BTXN-00011,2025-08-24,Tampa Grid Services,Payment for INV2025-0015,-14761.77,Check,True,Tampa Grid Services|-14761.77,1,OK
+BTXN-00012,2025-11-09,Tri-County Services,Payment for INV2025-0016,-28380.53,Check,True,Tri-County Services|-28380.53,1,OK
+BTXN-00013,2025-04-10,Florida Line Crew LLC,Payment for INV2025-0017,-19065.26,ACH,True,Florida Line Crew LLC|-19065.26,1,OK
+BTXN-00014,2025-08-16,Bay Area Rentals,Payment for INV2025-0019,-9209.49,Check,True,Bay Area Rentals|-9209.49,1,OK
+BTXN-00015,2025-04-11,Atlantic Fiber Co,Payment for INV2025-0020,-19477.87,ACH,True,Atlantic Fiber Co|-19477.87,1,OK
+BTXN-00016,2025-09-02,Florida Line Crew LLC,Payment for INV2025-0021,-19322.59,ACH,True,Florida Line Crew LLC|-19322.59,1,OK
+BTXN-00017,2025-03-12,Skyline Engineering,Payment for INV2025-0023,-12875.36,ACH,True,Skyline Engineering|-12875.36,1,OK
+BTXN-00018,2025-09-12,Tidal Contractors,Payment for INV2025-0024,-16456.35,Check,True,Tidal Contractors|-16456.35,1,OK
+BTXN-00019,2025-03-09,Tri-County Services,Payment for INV2025-0025,-16158.39,Check,True,Tri-County Services|-16158.39,1,OK
+BTXN-00020,2025-04-08,Bay Area Rentals,Payment for INV2025-0026,-8246.33,Check,True,Bay Area Rentals|-8246.33,1,OK
+BTXN-00021,2025-05-13,Tri-County Services,Payment for INV2025-0028,-24026.04,ACH,True,Tri-County Services|-24026.04,1,OK
+BTXN-00022,2025-10-17,Sunline Electrical,Payment for INV2025-0031,-25371.39,Check,True,Sunline Electrical|-25371.39,1,OK
+BTXN-00023,2025-06-05,BrightPower Partners,Payment for INV2025-0032,-7191.40,Check,True,BrightPower Partners|-7191.4,1,OK
+BTXN-00024,2025-04-29,Tri-County Services,Payment for INV2025-0033,-26566.04,Check,True,Tri-County Services|-26566.04,1,OK
+BTXN-00025,2025-05-15,Tidal Contractors,Payment for INV2025-0034,-1394.87,ACH,True,Tidal Contractors|-1394.87,2,Duplicate Payment
+BTXN-00026,2025-05-16,Tidal Contractors,Duplicate payment for INV2025-0034,-1394.87,Check,True,Tidal Contractors|-1394.87,2,Duplicate Payment
+BTXN-00027,2025-10-16,Atlantic Fiber Co,Payment for INV2025-0036,-20596.66,Check,True,Atlantic Fiber Co|-20596.66,1,OK
+BTXN-00028,2025-10-27,Skyline Engineering,Payment for INV2025-0037,-26438.41,ACH,True,Skyline Engineering|-26438.41,1,OK
+BTXN-00029,2025-04-14,Gulf Coast Telecom,Payment for INV2025-0038,-13922.19,Check,True,Gulf Coast Telecom|-13922.19,1,OK
+BTXN-00030,2025-06-20,Florida Line Crew LLC,Payment for INV2025-0039,-6279.14,ACH,True,Florida Line Crew LLC|-6279.14,1,OK
+BTXN-00031,2025-07-10,Tri-County Services,Payment for INV2025-0040,-5058.30,ACH,True,Tri-County Services|-5058.3,1,OK
+BTXN-00032,2025-06-20,Gulf Coast Telecom,Payment for INV2025-0042,-18599.52,Check,True,Gulf Coast Telecom|-18599.52,1,OK
+BTXN-00033,2025-12-17,Sunshine Equipment,Payment for INV2025-0043,-13947.03,ACH,True,Sunshine Equipment|-13947.03,1,OK
+BTXN-00034,2025-02-02,Atlantic Fiber Co,Payment for INV2025-0045,-19881.16,Check,True,Atlantic Fiber Co|-19881.16,1,OK
+BTXN-00035,2025-05-22,Tidal Contractors,Payment for INV2025-0047,-24203.17,ACH,True,Tidal Contractors|-24203.17,1,OK
+BTXN-00036,2025-08-14,Atlantic Fiber Co,Payment for INV2025-0049,-5098.78,Check,True,Atlantic Fiber Co|-5098.78,1,OK
+BTXN-00037,2025-10-25,Sunline Electrical,Payment for INV2025-0050,-10094.59,ACH,True,Sunline Electrical|-10094.59,1,OK
+BTXN-00038,2025-06-03,Bay Area Rentals,Payment for INV2025-0051,-2976.71,Check,True,Bay Area Rentals|-2976.71,1,OK
+BTXN-00039,2025-09-07,Atlantic Fiber Co,Payment for INV2025-0052,-26074.27,Check,True,Atlantic Fiber Co|-26074.27,1,OK
+BTXN-00040,2025-12-17,Sunline Electrical,Payment for INV2025-0053,-9712.30,Check,True,Sunline Electrical|-9712.3,1,OK
+BTXN-00041,2025-12-04,Sunline Electrical,Payment for INV2025-0054,-15602.66,Check,True,Sunline Electrical|-15602.66,1,OK
+BTXN-00042,2025-05-29,Skyline Engineering,Payment for INV2025-0056,-25281.28,ACH,True,Skyline Engineering|-25281.28,1,OK
+BTXN-00043,2025-08-05,Tri-County Services,Payment for INV2025-0057,-26111.80,Check,True,Tri-County Services|-26111.8,2,Duplicate Payment
+BTXN-00044,2025-08-06,Tri-County Services,Duplicate payment for INV2025-0057,-26111.80,Check,True,Tri-County Services|-26111.8,2,Duplicate Payment
+BTXN-00045,2025-08-07,Atlantic Fiber Co,Payment for INV2025-0058,-4954.99,Check,True,Atlantic Fiber Co|-4954.99,1,OK
+BTXN-00046,2025-04-19,Sunshine Equipment,Payment for INV2025-0059,-2358.71,Check,True,Sunshine Equipment|-2358.71,1,OK
+BTXN-00047,2025-12-29,Skyline Engineering,Payment for INV2025-0060,-7164.27,ACH,True,Skyline Engineering|-7164.27,1,OK
+BTXN-00048,2025-05-30,Tampa Grid Services,Payment for INV2025-0061,-18862.07,Check,True,Tampa Grid Services|-18862.07,1,OK
+BTXN-00049,2025-11-07,Peak Materials Supply,Payment for INV2025-0062,-7285.35,ACH,True,Peak Materials Supply|-7285.35,1,OK
+BTXN-00050,2025-11-29,Tri-County Services,Payment for INV2025-0063,-5601.59,Check,True,Tri-County Services|-5601.59,1,OK
+BTXN-00051,2025-06-27,Gulf Coast Telecom,Payment for INV2025-0064,-9351.64,ACH,True,Gulf Coast Telecom|-9351.64,1,OK
+BTXN-00052,2025-10-08,Peak Materials Supply,Payment for INV2025-0065,-9094.82,ACH,True,Peak Materials Supply|-9094.82,1,OK
+BTXN-00053,2025-06-20,Tidal Contractors,Payment for INV2025-0066,-23198.40,ACH,True,Tidal Contractors|-23198.4,1,OK
+BTXN-00054,2025-12-04,Tri-County Services,Payment for INV2025-0067,-14682.91,ACH,True,Tri-County Services|-14682.91,1,OK
+BTXN-00055,2025-03-04,Florida Line Crew LLC,Payment for INV2025-0068,-25597.59,Check,True,Florida Line Crew LLC|-25597.59,1,OK
+BTXN-00056,2025-11-27,Gulf Coast Telecom,Payment for INV2025-0070,-25830.14,ACH,True,Gulf Coast Telecom|-25830.14,1,OK
+BTXN-00057,2025-07-30,Skyline Engineering,Payment for INV2025-0071,-11955.35,ACH,True,Skyline Engineering|-11955.35,1,OK
+BTXN-00058,2025-10-11,Peak Materials Supply,Payment for INV2025-0072,-18584.03,ACH,True,Peak Materials Supply|-18584.03,1,OK
+BTXN-00059,2025-09-01,Tri-County Services,Payment for INV2025-0073,-14793.41,Check,True,Tri-County Services|-14793.41,1,OK
+BTXN-00060,2025-10-29,Skyline Engineering,Payment for INV2025-0074,-17761.18,Check,True,Skyline Engineering|-17761.18,1,OK
+BTXN-00061,2025-07-14,Bay Area Rentals,Payment for INV2025-0075,-3650.67,Check,True,Bay Area Rentals|-3650.67,1,OK
+BTXN-00062,2025-05-26,Tri-County Services,Payment for INV2025-0076,-19070.09,ACH,True,Tri-County Services|-19070.09,1,OK
+BTXN-00063,2025-09-21,Sunshine Equipment,Payment for INV2025-0078,-17183.98,ACH,True,Sunshine Equipment|-17183.98,1,OK
+BTXN-00064,2025-09-15,Sunline Electrical,Payment for INV2025-0079,-13605.89,ACH,True,Sunline Electrical|-13605.89,1,OK
+BTXN-00065,2025-02-21,Gulf Coast Telecom,Payment for INV2025-0080,-17294.82,ACH,True,Gulf Coast Telecom|-17294.82,1,OK
+BTXN-00066,2025-08-11,Sunline Electrical,Payment for INV2025-0082,-16864.83,Check,True,Sunline Electrical|-16864.83,1,OK
+BTXN-00067,2025-09-22,Skyline Engineering,Payment for INV2025-0084,-18267.69,ACH,True,Skyline Engineering|-18267.69,1,OK
+BTXN-00068,2025-04-14,Sunline Electrical,Payment for INV2025-0085,-1150.42,Check,True,Sunline Electrical|-1150.42,2,Duplicate Payment
+BTXN-00069,2025-04-15,Sunline Electrical,Duplicate payment for INV2025-0085,-1150.42,ACH,True,Sunline Electrical|-1150.42,2,Duplicate Payment
+BTXN-00070,2025-09-02,BrightPower Partners,Payment for INV2025-0087,-8375.50,ACH,True,BrightPower Partners|-8375.5,1,OK
+BTXN-00071,2025-08-08,Florida Line Crew LLC,Payment for INV2025-0088,-19716.59,ACH,True,Florida Line Crew LLC|-19716.59,1,OK
+BTXN-00072,2025-06-17,Bay Area Rentals,Payment for INV2025-0089,-22930.63,ACH,True,Bay Area Rentals|-22930.63,1,OK
+BTXN-00073,2025-03-26,Bay Area Rentals,Payment for INV2025-0091,-10648.38,Check,True,Bay Area Rentals|-10648.38,1,OK
+BTXN-00074,2025-07-09,Tri-County Services,Payment for INV2025-0092,-25663.17,ACH,True,Tri-County Services|-25663.17,1,OK
+BTXN-00075,2025-10-31,Tri-County Services,Payment for INV2025-0093,-25336.22,Check,True,Tri-County Services|-25336.22,1,OK
+BTXN-00076,2025-05-06,Gulf Coast Telecom,Payment for INV2025-0094,-9150.94,ACH,True,Gulf Coast Telecom|-9150.94,1,OK
+BTXN-00077,2025-07-27,Skyline Engineering,Payment for INV2025-0096,-14940.90,Check,True,Skyline Engineering|-14940.9,1,OK
+BTXN-00078,2025-09-07,BrightPower Partners,Payment for INV2025-0097,-20498.00,ACH,True,BrightPower Partners|-20498,1,OK
+BTXN-00079,2025-07-02,Tampa Grid Services,Payment for INV2025-0098,-2442.48,Check,True,Tampa Grid Services|-2442.48,1,OK
+BTXN-00080,2025-04-08,Tampa Grid Services,Payment for INV2025-0099,-26523.12,ACH,True,Tampa Grid Services|-26523.12,1,OK
+BTXN-00081,2025-07-09,Skyline Engineering,Payment for INV2025-0101,-19099.97,ACH,True,Skyline Engineering|-19099.97,1,OK
+BTXN-00082,2025-08-04,BrightPower Partners,Payment for INV2025-0102,-24295.08,Check,True,BrightPower Partners|-24295.08,1,OK
+BTXN-00083,2025-07-25,Tri-County Services,Payment for INV2025-0103,-15516.17,Check,True,Tri-County Services|-15516.17,1,OK
+BTXN-00084,2025-12-27,Peak Materials Supply,Payment for INV2025-0105,-11973.55,Check,True,Peak Materials Supply|-11973.55,1,OK
+BTXN-00085,2025-07-19,Tampa Grid Services,Payment for INV2025-0106,-8994.23,Check,True,Tampa Grid Services|-8994.23,1,OK
+BTXN-00086,2025-10-07,Gulf Coast Telecom,Payment for INV2025-0107,-2489.04,ACH,True,Gulf Coast Telecom|-2489.04,1,OK
+BTXN-00087,2025-01-21,Bay Area Rentals,Payment for INV2025-0108,-26391.74,ACH,True,Bay Area Rentals|-26391.74,1,OK
+BTXN-00088,2025-10-11,Sunline Electrical,Payment for INV2025-0110,-12363.41,ACH,True,Sunline Electrical|-12363.41,1,OK
+BTXN-00089,2025-06-25,Tidal Contractors,Payment for INV2025-0111,-12631.55,Check,True,Tidal Contractors|-12631.55,1,OK
+BTXN-00090,2025-06-27,Tri-County Services,Payment for INV2025-0113,-11314.78,Check,True,Tri-County Services|-11314.78,1,OK
+BTXN-00091,2025-04-07,Skyline Engineering,Payment for INV2025-0114,-25308.76,ACH,True,Skyline Engineering|-25308.76,1,OK
+BTXN-00092,2025-02-16,Tri-County Services,Payment for INV2025-0115,-23238.87,ACH,True,Tri-County Services|-23238.87,1,OK
+BTXN-00093,2025-04-05,Sunline Electrical,Payment for INV2025-0116,-26364.28,Check,True,Sunline Electrical|-26364.28,2,Duplicate Payment
+BTXN-00094,2025-04-06,Sunline Electrical,Duplicate payment for INV2025-0116,-26364.28,Check,True,Sunline Electrical|-26364.28,2,Duplicate Payment
+BTXN-00095,2025-04-10,Sunshine Equipment,Payment for INV2025-0117,-22167.46,ACH,True,Sunshine Equipment|-22167.46,1,OK
+BTXN-00096,2025-06-06,Bay Area Rentals,Payment for INV2025-0118,-4062.83,ACH,True,Bay Area Rentals|-4062.83,1,OK
+BTXN-00097,2025-01-13,BrightPower Partners,Payment for INV2025-0119,-14610.84,ACH,True,BrightPower Partners|-14610.84,1,OK
+BTXN-00098,2025-02-13,Tri-County Services,Payment for INV2025-0120,-25302.03,ACH,True,Tri-County Services|-25302.03,1,OK
+BTXN-00099,2025-08-31,Tri-County Services,Payment for INV2025-0122,-22016.41,ACH,True,Tri-County Services|-22016.41,1,OK
+BTXN-00100,2025-05-07,Tampa Grid Services,Payment for INV2025-0124,-8563.18,Check,True,Tampa Grid Services|-8563.18,1,OK
+BTXN-00101,2025-09-06,Skyline Engineering,Payment for INV2025-0125,-16075.46,Check,True,Skyline Engineering|-16075.46,1,OK
+BTXN-00102,2025-09-06,Skyline Engineering,Payment for INV2025-0126,-17376.68,ACH,True,Skyline Engineering|-17376.68,1,OK
+BTXN-00103,2025-08-14,Skyline Engineering,Payment for INV2025-0127,-9680.21,ACH,True,Skyline Engineering|-9680.21,1,OK
+BTXN-00104,2025-06-03,Bay Area Rentals,Payment for INV2025-0130,-12459.24,Check,True,Bay Area Rentals|-12459.24,1,OK
+BTXN-00105,2025-09-17,Atlantic Fiber Co,Payment for INV2025-0132,-14619.36,Check,True,Atlantic Fiber Co|-14619.36,1,OK
+BTXN-00106,2025-02-08,Sunshine Equipment,Payment for INV2025-0133,-18618.15,ACH,True,Sunshine Equipment|-18618.15,1,OK
+BTXN-00107,2025-04-28,Florida Line Crew LLC,Payment for INV2025-0134,-16238.50,Check,True,Florida Line Crew LLC|-16238.5,1,OK
+BTXN-00108,2025-01-10,Peak Materials Supply,Payment for INV2025-0135,-9692.92,Check,True,Peak Materials Supply|-9692.92,1,OK
+BTXN-00109,2025-07-01,Tidal Contractors,Payment for INV2025-0136,-5888.49,ACH,True,Tidal Contractors|-5888.49,1,OK
+BTXN-00110,2025-05-13,Sunshine Equipment,Payment for INV2025-0137,-13025.34,ACH,True,Sunshine Equipment|-13025.34,1,OK
+BTXN-00111,2025-11-05,Tidal Contractors,Payment for INV2025-0140,-13174.91,ACH,True,Tidal Contractors|-13174.91,1,OK
+BTXN-00112,2025-05-13,Atlantic Fiber Co,Payment for INV2025-0142,-20280.52,ACH,True,Atlantic Fiber Co|-20280.52,1,OK
+BTXN-00113,2025-11-22,BrightPower Partners,Payment for INV2025-0143,-6826.96,Check,True,BrightPower Partners|-6826.96,1,OK
+BTXN-00114,2025-09-07,Peak Materials Supply,Payment for INV2025-0144,-22468.72,Check,True,Peak Materials Supply|-22468.72,1,OK
+BTXN-00115,2025-02-16,Atlantic Fiber Co,Payment for INV2025-0145,-16171.25,ACH,True,Atlantic Fiber Co|-16171.25,1,OK
+BTXN-00116,2025-06-04,BrightPower Partners,Payment for INV2025-0146,-19943.56,Check,True,BrightPower Partners|-19943.56,1,OK
+BTXN-00117,2025-09-23,Tidal Contractors,Payment for INV2025-0147,-8011.45,ACH,True,Tidal Contractors|-8011.45,1,OK
+BTXN-00118,2025-08-25,Florida Line Crew LLC,Payment for INV2025-0149,-725.67,ACH,True,Florida Line Crew LLC|-725.67,1,OK
+BTXN-00119,2025-06-26,Skyline Engineering,Payment for INV2025-0151,-14218.31,ACH,True,Skyline Engineering|-14218.31,1,OK
+BTXN-00120,2025-04-27,Skyline Engineering,Payment for INV2025-0154,-15201.24,ACH,True,Skyline Engineering|-15201.24,1,OK
+BTXN-00121,2025-07-15,Skyline Engineering,Payment for INV2025-0155,-5412.94,Check,True,Skyline Engineering|-5412.94,1,OK
+BTXN-00122,2025-08-18,Tri-County Services,Payment for INV2025-0156,-6885.98,ACH,True,Tri-County Services|-6885.98,1,OK
+BTXN-00123,2025-12-13,Sunshine Equipment,Payment for INV2025-0158,-1893.56,Check,True,Sunshine Equipment|-1893.56,1,OK
+BTXN-00124,2025-09-24,Peak Materials Supply,Payment for INV2025-0159,-26486.81,Check,True,Peak Materials Supply|-26486.81,1,OK
+BTXN-00125,2025-04-13,Peak Materials Supply,Payment for INV2025-0160,-18400.60,ACH,True,Peak Materials Supply|-18400.6,2,Duplicate Payment
+BTXN-00126,2025-04-14,Peak Materials Supply,Duplicate payment for INV2025-0160,-18400.60,ACH,True,Peak Materials Supply|-18400.6,2,Duplicate Payment
+BTXN-00127,2025-12-04,Tidal Contractors,Payment for INV2025-0164,-22709.17,Check,True,Tidal Contractors|-22709.17,1,OK
+BTXN-00128,2025-12-12,Bay Area Rentals,Payment for INV2025-0165,-4863.85,ACH,True,Bay Area Rentals|-4863.85,1,OK
+BTXN-00129,2025-04-16,Gulf Coast Telecom,Payment for INV2025-0166,-23420.85,ACH,True,Gulf Coast Telecom|-23420.85,1,OK
+BTXN-00130,2025-04-25,Gulf Coast Telecom,Payment for INV2025-0169,-14696.80,ACH,True,Gulf Coast Telecom|-14696.8,1,OK
+BTXN-00131,2025-07-31,Florida Line Crew LLC,Payment for INV2025-0170,-4146.90,Check,True,Florida Line Crew LLC|-4146.9,1,OK
+BTXN-00132,2025-11-27,BrightPower Partners,Payment for INV2025-0171,-24080.40,Check,True,BrightPower Partners|-24080.4,1,OK
+BTXN-00133,2025-04-21,Sunshine Equipment,Payment for INV2025-0172,-20847.39,Check,True,Sunshine Equipment|-20847.39,1,OK
+BTXN-00134,2025-02-09,Gulf Coast Telecom,Payment for INV2025-0173,-9413.86,ACH,True,Gulf Coast Telecom|-9413.86,1,OK
+BTXN-00135,2025-12-02,Bay Area Rentals,Payment for INV2025-0174,-4058.29,ACH,True,Bay Area Rentals|-4058.29,1,OK
+BTXN-00136,2025-05-22,Tri-County Services,Payment for INV2025-0175,-6514.24,ACH,True,Tri-County Services|-6514.24,1,OK
+BTXN-00137,2025-05-06,Tidal Contractors,Payment for INV2025-0176,-15216.25,ACH,True,Tidal Contractors|-15216.25,1,OK
+BTXN-00138,2025-03-20,Gulf Coast Telecom,Payment for INV2025-0177,-25677.14,Check,True,Gulf Coast Telecom|-25677.14,1,OK
+BTXN-00139,2025-08-05,Peak Materials Supply,Payment for INV2025-0178,-8120.85,Check,True,Peak Materials Supply|-8120.85,1,OK
+BTXN-00140,2025-06-17,Atlantic Fiber Co,Payment for INV2025-0179,-16564.27,ACH,True,Atlantic Fiber Co|-16564.27,1,OK
+BTXN-00141,2025-07-31,Sunshine Equipment,Payment for INV2025-0180,-15278.23,Check,True,Sunshine Equipment|-15278.23,1,OK
+BTXN-00142,2025-12-07,Bay Area Rentals,Payment for INV2025-0181,-20559.27,Check,True,Bay Area Rentals|-20559.27,1,OK
+BTXN-00143,2025-11-11,Gulf Coast Telecom,Payment for INV2025-0183,-26229.47,Check,True,Gulf Coast Telecom|-26229.47,1,OK
+BTXN-00144,2025-11-28,Sunline Electrical,Payment for INV2025-0184,-8699.51,Check,True,Sunline Electrical|-8699.51,1,OK
+BTXN-00145,2025-07-29,Sunshine Equipment,Payment for INV2025-0185,-19858.17,ACH,True,Sunshine Equipment|-19858.17,1,OK
+BTXN-00146,2025-06-08,Sunshine Equipment,Payment for INV2025-0186,-3497.52,ACH,True,Sunshine Equipment|-3497.52,1,OK
+BTXN-00147,2025-09-30,Atlantic Fiber Co,Payment for INV2025-0187,-24382.27,ACH,True,Atlantic Fiber Co|-24382.27,1,OK
+BTXN-00148,2025-08-12,Sunline Electrical,Payment for INV2025-0189,-8907.12,Check,True,Sunline Electrical|-8907.12,1,OK
+BTXN-00149,2025-07-26,Sunshine Equipment,Payment for INV2025-0190,-18013.42,Check,True,Sunshine Equipment|-18013.42,1,OK
+BTXN-00150,2025-04-14,Sunshine Equipment,Payment for INV2025-0192,-8700.46,ACH,True,Sunshine Equipment|-8700.46,1,OK
+BTXN-00151,2025-09-02,Florida Line Crew LLC,Payment for INV2025-0193,-12869.56,ACH,True,Florida Line Crew LLC|-12869.56,1,OK
+BTXN-00152,2025-07-14,Skyline Engineering,Payment for INV2025-0194,-2284.53,Check,True,Skyline Engineering|-2284.53,1,OK
+BTXN-00153,2025-09-06,BrightPower Partners,Payment for INV2025-0195,-13208.15,ACH,True,BrightPower Partners|-13208.15,1,OK
+BTXN-00154,2025-11-22,Sunshine Equipment,Payment for INV2025-0196,-9343.78,ACH,True,Sunshine Equipment|-9343.78,1,OK
+BTXN-00155,2025-12-13,Florida Line Crew LLC,Payment for INV2025-0197,-23948.71,ACH,True,Florida Line Crew LLC|-23948.71,1,OK
+BTXN-00156,2025-12-17,Bay Area Rentals,Payment for INV2025-0198,-17808.69,ACH,True,Bay Area Rentals|-17808.69,1,OK
+BTXN-00157,2025-11-06,Tampa Grid Services,Payment for INV2025-0199,-3264.21,ACH,True,Tampa Grid Services|-3264.21,1,OK
+BTXN-00158,2025-05-13,Sunshine Equipment,Payment for INV2025-0200,-19340.31,ACH,True,Sunshine Equipment|-19340.31,1,OK
+BTXN-00159,2025-01-30,Skyline Engineering,Payment for INV2025-0203,-20753.22,Check,True,Skyline Engineering|-20753.22,1,OK
+BTXN-00160,2025-08-01,Atlantic Fiber Co,Payment for INV2025-0205,-7301.50,ACH,True,Atlantic Fiber Co|-7301.5,1,OK
+BTXN-00161,2025-03-18,BrightPower Partners,Payment for INV2025-0206,-11215.08,ACH,True,BrightPower Partners|-11215.08,1,OK
+BTXN-00162,2025-05-18,Peak Materials Supply,Payment for INV2025-0208,-12883.98,Check,True,Peak Materials Supply|-12883.98,1,OK
+BTXN-00163,2025-02-04,Tri-County Services,Payment for INV2025-0209,-17141.64,ACH,True,Tri-County Services|-17141.64,1,OK
+BTXN-00164,2025-07-03,Tidal Contractors,Payment for INV2025-0213,-19415.11,ACH,True,Tidal Contractors|-19415.11,1,OK
+BTXN-00165,2025-08-11,Sunshine Equipment,Payment for INV2025-0215,-11031.79,Check,True,Sunshine Equipment|-11031.79,1,OK
+BTXN-00166,2025-05-01,Tidal Contractors,Payment for INV2025-0216,-25785.35,ACH,True,Tidal Contractors|-25785.35,1,OK
+BTXN-00167,2025-11-03,Peak Materials Supply,Payment for INV2025-0217,-2313.31,ACH,True,Peak Materials Supply|-2313.31,1,OK
+BTXN-00168,2025-08-11,Skyline Engineering,Payment for INV2025-0218,-8324.04,Check,True,Skyline Engineering|-8324.04,1,OK
+BTXN-00169,2025-05-31,Sunshine Equipment,Payment for INV2025-0219,-4055.02,Check,True,Sunshine Equipment|-4055.02,1,OK
+BTXN-00170,2025-11-01,Skyline Engineering,Payment for INV2025-0220,-16059.57,ACH,True,Skyline Engineering|-16059.57,1,OK
+BTXN-00171,2025-02-15,Sunline Electrical,Payment for INV2025-0222,-19103.48,Check,True,Sunline Electrical|-19103.48,1,OK
+BTXN-00172,2025-04-04,Atlantic Fiber Co,Payment for INV2025-0223,-2561.59,ACH,True,Atlantic Fiber Co|-2561.59,1,OK
+BTXN-00173,2025-06-04,Tri-County Services,Payment for INV2025-0224,-9904.49,Check,True,Tri-County Services|-9904.49,1,OK
+BTXN-00174,2025-03-24,Tri-County Services,Payment for INV2025-0225,-12112.77,Check,True,Tri-County Services|-12112.77,1,OK
+BTXN-00175,2025-04-19,Peak Materials Supply,Payment for INV2025-0226,-19545.88,Check,True,Peak Materials Supply|-19545.88,1,OK
+BTXN-00176,2025-04-29,Sunshine Equipment,Payment for INV2025-0227,-18619.17,Check,True,Sunshine Equipment|-18619.17,1,OK
+BTXN-00177,2025-10-20,Atlantic Fiber Co,Payment for INV2025-0229,-23572.50,Check,True,Atlantic Fiber Co|-23572.5,1,OK
+BTXN-00178,2025-06-29,Tri-County Services,Payment for INV2025-0230,-3557.12,Check,True,Tri-County Services|-3557.12,1,OK
+BTXN-00179,2025-06-16,Tampa Grid Services,Payment for INV2025-0231,-16166.21,ACH,True,Tampa Grid Services|-16166.21,1,OK
+BTXN-00180,2025-12-26,Atlantic Fiber Co,Payment for INV2025-0232,-18700.42,ACH,True,Atlantic Fiber Co|-18700.42,1,OK
+BTXN-00181,2025-11-24,Atlantic Fiber Co,Payment for INV2025-0235,-26372.98,ACH,True,Atlantic Fiber Co|-26372.98,1,OK
+BTXN-00182,2025-07-10,Sunline Electrical,Payment for INV2025-0236,-25099.58,Check,True,Sunline Electrical|-25099.58,1,OK
+BTXN-00183,2025-03-31,Sunshine Equipment,Payment for INV2025-0237,-10968.15,ACH,True,Sunshine Equipment|-10968.15,1,OK
+BTXN-00184,2025-10-28,Tidal Contractors,Payment for INV2025-0238,-26209.69,Check,True,Tidal Contractors|-26209.69,1,OK
+BTXN-00185,2025-07-02,Bay Area Rentals,Payment for INV2025-0240,-22998.69,ACH,True,Bay Area Rentals|-22998.69,1,OK
+BTXN-00186,2025-06-21,Gulf Coast Telecom,Payment for INV2025-0241,-24513.56,ACH,True,Gulf Coast Telecom|-24513.56,1,OK
+BTXN-00187,2025-12-19,Skyline Engineering,Payment for INV2025-0243,-3031.14,Check,True,Skyline Engineering|-3031.14,1,OK
+BTXN-00188,2025-12-14,BrightPower Partners,Payment for INV2025-0244,-12789.08,Check,True,BrightPower Partners|-12789.08,1,OK
+BTXN-00189,2025-05-04,Sunshine Equipment,Payment for INV2025-0246,-22206.04,Check,True,Sunshine Equipment|-22206.04,1,OK
+BTXN-00190,2025-08-15,Bay Area Rentals,Payment for INV2025-0247,-25629.84,ACH,True,Bay Area Rentals|-25629.84,1,OK
+BTXN-00191,2025-10-12,Tri-County Services,Payment for INV2025-0248,-6812.06,ACH,True,Tri-County Services|-6812.06,1,OK
+BTXN-00192,2025-11-03,Gulf Coast Telecom,Payment for INV2025-0249,-10922.49,ACH,True,Gulf Coast Telecom|-10922.49,1,OK
+BTXN-00193,2025-06-12,Tidal Contractors,Payment for INV2025-0250,-22024.50,ACH,True,Tidal Contractors|-22024.5,1,OK
+BTXN-00194,2025-06-30,Skyline Engineering,Payment for INV2025-0252,-22875.25,Check,True,Skyline Engineering|-22875.25,1,OK
+BTXN-00195,2025-03-08,Tampa Grid Services,Payment for INV2025-0253,-2802.21,ACH,True,Tampa Grid Services|-2802.21,1,OK
+BTXN-00196,2025-06-25,Tampa Grid Services,Payment for INV2025-0256,-13072.20,ACH,True,Tampa Grid Services|-13072.2,2,Duplicate Payment
+BTXN-00197,2025-06-26,Tampa Grid Services,Duplicate payment for INV2025-0256,-13072.20,ACH,True,Tampa Grid Services|-13072.2,2,Duplicate Payment
+BTXN-00198,2025-12-26,Sunline Electrical,Payment for INV2025-0257,-17111.40,ACH,True,Sunline Electrical|-17111.4,1,OK
+BTXN-00199,2025-11-21,Tampa Grid Services,Payment for INV2025-0258,-23076.14,ACH,True,Tampa Grid Services|-23076.14,1,OK
+BTXN-00200,2025-04-26,Bay Area Rentals,Payment for INV2025-0259,-9247.63,Check,True,Bay Area Rentals|-9247.63,1,OK
+BTXN-00201,2025-06-28,Peak Materials Supply,Payment for INV2025-0260,-20473.91,Check,True,Peak Materials Supply|-20473.91,1,OK
+BTXN-00202,2025-06-15,Peak Materials Supply,Payment for INV2025-0262,-19838.91,ACH,True,Peak Materials Supply|-19838.91,1,OK
+BTXN-00203,2025-08-11,Bay Area Rentals,Payment for INV2025-0263,-7282.32,ACH,True,Bay Area Rentals|-7282.32,1,OK
+BTXN-00204,2025-04-20,Bay Area Rentals,Payment for INV2025-0264,-15140.24,Check,True,Bay Area Rentals|-15140.24,1,OK
+BTXN-00205,2025-03-25,Atlantic Fiber Co,Payment for INV2025-0266,-20198.39,ACH,True,Atlantic Fiber Co|-20198.39,1,OK
+BTXN-00206,2025-11-22,Tidal Contractors,Payment for INV2025-0269,-25812.95,ACH,True,Tidal Contractors|-25812.95,1,OK
+BTXN-00207,2025-02-12,Gulf Coast Telecom,Payment for INV2025-0270,-22174.10,Check,True,Gulf Coast Telecom|-22174.1,1,OK
+BTXN-00208,2025-03-07,Sunshine Equipment,Payment for INV2025-0271,-4657.63,ACH,True,Sunshine Equipment|-4657.63,1,OK
+BTXN-00209,2025-05-12,BrightPower Partners,Payment for INV2025-0272,-4779.31,ACH,True,BrightPower Partners|-4779.31,1,OK
+BTXN-00210,2025-04-11,Sunline Electrical,Payment for INV2025-0273,-2682.03,ACH,True,Sunline Electrical|-2682.03,1,OK
+BTXN-00211,2025-02-21,Gulf Coast Telecom,Payment for INV2025-0274,-25545.26,ACH,True,Gulf Coast Telecom|-25545.26,1,OK
+BTXN-00212,2025-12-30,Skyline Engineering,Payment for INV2025-0275,-17112.52,ACH,True,Skyline Engineering|-17112.52,1,OK
+BTXN-00213,2025-10-23,Peak Materials Supply,Payment for INV2025-0276,-19525.75,ACH,True,Peak Materials Supply|-19525.75,1,OK
+BTXN-00214,2025-12-17,Gulf Coast Telecom,Payment for INV2025-0277,-19186.66,Check,True,Gulf Coast Telecom|-19186.66,1,OK
+BTXN-00215,2025-03-25,Florida Line Crew LLC,Payment for INV2025-0278,-5875.03,ACH,True,Florida Line Crew LLC|-5875.03,1,OK
+BTXN-00216,2025-05-27,Peak Materials Supply,Payment for INV2025-0279,-14505.71,ACH,True,Peak Materials Supply|-14505.71,1,OK
+BTXN-00217,2025-07-19,Tampa Grid Services,Payment for INV2025-0280,-25777.29,ACH,True,Tampa Grid Services|-25777.29,1,OK
+BTXN-00218,2025-06-15,Tri-County Services,Payment for INV2025-0281,-16295.95,Check,True,Tri-County Services|-16295.95,1,OK
+BTXN-00219,2025-06-21,Sunshine Equipment,Payment for INV2025-0282,-4773.24,ACH,True,Sunshine Equipment|-4773.24,1,OK
+BTXN-00220,2025-05-27,Skyline Engineering,Payment for INV2025-0286,-19430.91,Check,True,Skyline Engineering|-19430.91,1,OK
+BTXN-00221,2025-04-10,Skyline Engineering,Payment for INV2025-0287,-4290.48,ACH,True,Skyline Engineering|-4290.48,1,OK
+BTXN-00222,2025-06-16,Sunshine Equipment,Payment for INV2025-0288,-791.15,Check,True,Sunshine Equipment|-791.15,1,OK
+BTXN-00223,2025-09-12,Sunline Electrical,Payment for INV2025-0289,-9726.69,ACH,True,Sunline Electrical|-9726.69,1,OK
+BTXN-00224,2025-05-02,Florida Line Crew LLC,Payment for INV2025-0290,-15269.03,ACH,True,Florida Line Crew LLC|-15269.03,1,OK
+BTXN-00225,2025-04-26,Florida Line Crew LLC,Payment for INV2025-0291,-3260.93,ACH,True,Florida Line Crew LLC|-3260.93,1,OK
+BTXN-00226,2025-01-21,Gulf Coast Telecom,Payment for INV2025-0292,-1897.43,ACH,True,Gulf Coast Telecom|-1897.43,1,OK
+BTXN-00227,2025-12-05,Florida Line Crew LLC,Payment for INV2025-0293,-21451.59,Check,True,Florida Line Crew LLC|-21451.59,1,OK
+BTXN-00228,2025-04-01,Peak Materials Supply,Payment for INV2025-0294,-16122.14,Check,True,Peak Materials Supply|-16122.14,1,OK
+BTXN-00229,2025-05-23,Tidal Contractors,Payment for INV2025-0295,-19805.74,ACH,True,Tidal Contractors|-19805.74,1,OK
+BTXN-00230,2025-04-20,Tri-County Services,Payment for INV2025-0296,-13160.50,ACH,True,Tri-County Services|-13160.5,1,OK
+BTXN-00231,2025-11-27,Sunshine Equipment,Payment for INV2025-0298,-13595.21,Check,True,Sunshine Equipment|-13595.21,1,OK
+BTXN-00232,2025-07-08,Skyline Engineering,Payment for INV2025-0300,-10012.87,Check,True,Skyline Engineering|-10012.87,1,OK
+BTXN-00233,2025-07-02,Sunline Electrical,Payment for INV2025-0302,-20742.56,Check,True,Sunline Electrical|-20742.56,1,OK
+BTXN-00234,2025-07-09,Skyline Engineering,Payment for INV2025-0303,-14009.40,Check,True,Skyline Engineering|-14009.4,1,OK
+BTXN-00235,2025-10-05,Peak Materials Supply,Payment for INV2025-0304,-26295.71,Check,True,Peak Materials Supply|-26295.71,1,OK
+BTXN-00236,2025-06-10,Sunshine Equipment,Payment for INV2025-0305,-17091.36,Check,True,Sunshine Equipment|-17091.36,1,OK
+BTXN-00237,2025-01-26,Atlantic Fiber Co,Payment for INV2025-0306,-16160.19,Check,True,Atlantic Fiber Co|-16160.19,1,OK
+BTXN-00238,2025-11-20,Gulf Coast Telecom,Payment for INV2025-0308,-11152.62,Check,True,Gulf Coast Telecom|-11152.62,1,OK
+BTXN-00239,2025-05-06,Sunline Electrical,Payment for INV2025-0310,-768.12,Check,True,Sunline Electrical|-768.12,1,OK
+BTXN-00240,2025-07-01,Atlantic Fiber Co,Payment for INV2025-0311,-12431.09,ACH,True,Atlantic Fiber Co|-12431.09,1,OK
+BTXN-00241,2025-03-26,Sunline Electrical,Payment for INV2025-0312,-9369.54,ACH,True,Sunline Electrical|-9369.54,1,OK
+BTXN-00242,2025-07-20,Tampa Grid Services,Payment for INV2025-0313,-16713.45,ACH,True,Tampa Grid Services|-16713.45,1,OK
+BTXN-00243,2025-11-21,BrightPower Partners,Payment for INV2025-0314,-19932.49,Check,True,BrightPower Partners|-19932.49,1,OK
+BTXN-00244,2025-11-11,Sunline Electrical,Payment for INV2025-0315,-21453.26,Check,True,Sunline Electrical|-21453.26,1,OK
+BTXN-00245,2025-12-22,Sunline Electrical,Payment for INV2025-0317,-1551.76,Check,True,Sunline Electrical|-1551.76,1,OK
+BTXN-00246,2025-12-15,Gulf Coast Telecom,Payment for INV2025-0318,-15862.14,Check,True,Gulf Coast Telecom|-15862.14,1,OK
+BTXN-00247,2025-08-23,BrightPower Partners,Payment for INV2025-0319,-18604.18,ACH,True,BrightPower Partners|-18604.18,2,Duplicate Payment
+BTXN-00248,2025-08-24,BrightPower Partners,Duplicate payment for INV2025-0319,-18604.18,ACH,True,BrightPower Partners|-18604.18,2,Duplicate Payment
+BTXN-00249,2025-12-05,Skyline Engineering,Payment for INV2025-0320,-12456.01,ACH,True,Skyline Engineering|-12456.01,1,OK
+BTXN-00250,2025-12-14,Tri-County Services,Payment for INV2025-0321,-1326.93,Check,True,Tri-County Services|-1326.93,1,OK
+BTXN-00251,2025-09-03,Tidal Contractors,Payment for INV2025-0322,-4814.24,ACH,True,Tidal Contractors|-4814.24,1,OK
+BTXN-00252,2025-07-14,Tri-County Services,Payment for INV2025-0323,-23402.20,ACH,True,Tri-County Services|-23402.2,1,OK
+BTXN-00253,2025-08-02,Florida Line Crew LLC,Payment for INV2025-0324,-25416.28,ACH,True,Florida Line Crew LLC|-25416.28,1,OK
+BTXN-00254,2025-03-17,Skyline Engineering,Payment for INV2025-0325,-15421.14,Check,True,Skyline Engineering|-15421.14,1,OK
+BTXN-00255,2025-12-07,Tidal Contractors,Payment for INV2025-0326,-24964.54,Check,True,Tidal Contractors|-24964.54,1,OK
+BTXN-00256,2025-05-17,Tri-County Services,Payment for INV2025-0327,-9582.45,Check,True,Tri-County Services|-9582.45,1,OK
+BTXN-00257,2025-03-22,Sunline Electrical,Payment for INV2025-0329,-8027.17,Check,True,Sunline Electrical|-8027.17,1,OK
+BTXN-00258,2025-12-03,Sunline Electrical,Payment for INV2025-0331,-21871.84,Check,True,Sunline Electrical|-21871.84,1,OK
+BTXN-00259,2025-04-18,Bay Area Rentals,Payment for INV2025-0332,-16976.22,ACH,True,Bay Area Rentals|-16976.22,2,Duplicate Payment
+BTXN-00260,2025-04-19,Bay Area Rentals,Duplicate payment for INV2025-0332,-16976.22,Check,True,Bay Area Rentals|-16976.22,2,Duplicate Payment
+BTXN-00261,2025-12-21,Tampa Grid Services,Payment for INV2025-0333,-16096.29,Check,True,Tampa Grid Services|-16096.29,1,OK
+BTXN-00262,2025-06-01,Gulf Coast Telecom,Payment for INV2025-0334,-16354.40,ACH,True,Gulf Coast Telecom|-16354.4,1,OK
+BTXN-00263,2025-10-24,Tidal Contractors,Payment for INV2025-0335,-23275.55,ACH,True,Tidal Contractors|-23275.55,1,OK
+BTXN-00264,2025-06-18,Florida Line Crew LLC,Payment for INV2025-0336,-3358.61,Check,True,Florida Line Crew LLC|-3358.61,1,OK
+BTXN-00265,2025-12-09,Tampa Grid Services,Payment for INV2025-0337,-13092.47,ACH,True,Tampa Grid Services|-13092.47,1,OK
+BTXN-00266,2025-11-23,Tidal Contractors,Payment for INV2025-0340,-12772.08,Check,True,Tidal Contractors|-12772.08,1,OK
+BTXN-00267,2025-03-08,Sunline Electrical,Payment for INV2025-0341,-14420.50,Check,True,Sunline Electrical|-14420.5,1,OK
+BTXN-00268,2025-06-18,Florida Line Crew LLC,Payment for INV2025-0342,-7102.63,ACH,True,Florida Line Crew LLC|-7102.63,1,OK
+BTXN-00269,2025-05-13,Florida Line Crew LLC,Payment for INV2025-0345,-21765.33,Check,True,Florida Line Crew LLC|-21765.33,1,OK
+BTXN-00270,2025-09-17,Peak Materials Supply,Payment for INV2025-0347,-21243.26,ACH,True,Peak Materials Supply|-21243.26,1,OK
+BTXN-00271,2025-05-06,BrightPower Partners,Payment for INV2025-0348,-15127.24,ACH,True,BrightPower Partners|-15127.24,1,OK
+BTXN-00272,2025-06-23,Gulf Coast Telecom,Payment for INV2025-0349,-11697.71,ACH,True,Gulf Coast Telecom|-11697.71,1,OK
+BTXN-00273,2025-08-05,Tri-County Services,Payment for INV2025-0350,-11594.28,ACH,True,Tri-County Services|-11594.28,1,OK
+BTXN-00274,2025-07-07,Sunline Electrical,Unmatched vendor payment,-2042.35,ACH,True,Sunline Electrical|-2042.35,1,OK
+BTXN-00275,2025-10-15,Tampa Grid Services,Unmatched vendor payment,-6632.65,Check,True,Tampa Grid Services|-6632.65,1,OK
+BTXN-00276,2025-06-05,Atlantic Fiber Co,Unmatched vendor payment,-4760.35,ACH,True,Atlantic Fiber Co|-4760.35,1,OK
+BTXN-00277,2025-02-10,Sunline Electrical,Unmatched vendor payment,-3618.59,ACH,True,Sunline Electrical|-3618.59,1,OK
+BTXN-00278,2025-12-26,Bay Area Rentals,Unmatched vendor payment,-7150.32,ACH,True,Bay Area Rentals|-7150.32,1,OK
+BTXN-00279,2025-06-09,Peak Materials Supply,Unmatched vendor payment,-3158.03,Check,True,Peak Materials Supply|-3158.03,1,OK
+BTXN-00280,2025-11-09,Tri-County Services,Unmatched vendor payment,-511.14,ACH,True,Tri-County Services|-511.14,1,OK
+BTXN-00281,2025-06-16,Tampa Grid Services,Unmatched vendor payment,-4239.95,Check,True,Tampa Grid Services|-4239.95,1,OK
+BTXN-00282,2025-06-05,Sunline Electrical,Unmatched vendor payment,-3615.08,ACH,True,Sunline Electrical|-3615.08,1,OK
+BTXN-00283,2025-07-15,BrightPower Partners,Unmatched vendor payment,-644.79,ACH,True,BrightPower Partners|-644.79,1,OK
